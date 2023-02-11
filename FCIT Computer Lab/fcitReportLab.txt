@@ -1,0 +1,531 @@
+**************************************************************************************************************
+Command: List_All_Computer_Configuration
+
+---------Computer No 1 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-14  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Microsoft-Office S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Kasper-Sky-Antivirus S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Microsoft-Visio S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Microsoft-Visual_Studio.net S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Mysql S/W version: 5.624
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :HP Mouse Type: Wireless
+
+
+Printer Details 
+ 
+Company :HP Color Type: Colored  Printer Type :DeskJet
+
+
+
+---------Computer No 2 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Microsoft-Office S/W version: 2015.0
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :logitech Mouse Type: Wireless
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Black&white  Printer Type :DeskJet
+
+
+
+---------Computer No 3 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-11  Speed: 4.4 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 4 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-X-Series  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 5 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Adobe-Dreamweaver S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Adobe-Reader S/W version: 11.1
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :HP Mouse Type: Wireless
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Colored  Printer Type :DeskJet
+
+
+
+---------Computer No 6 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 7 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15-DVD  Speed: 4.7 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Adobe-Photoshop S/W version: 2015.0
+
+
+Software Details 
+
+S/W name: Microsoft-Office S/W version: 2015.0
+--- Following  Peripheral are  attached in the Machine ---
+
+Printer Details 
+ 
+Company :HP Color Type: Colored  Printer Type :DeskJet
+
+
+
+---------Computer No 8 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-z-Series  Speed: 6.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :HP Mouse Type: Wireless
+
+
+
+---------Computer No 9 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-13-2-in-1  Speed: 4.8 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :logitech Mouse Type: Wireless
+
+
+
+---------Computer No 10 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Kasper-Sky-Antivirus S/W version: 2015.0
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 11 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-17  Speed: 4.9 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 12 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: NetBeans-IDE S/W version: 8.2
+
+
+Software Details 
+
+S/W name: Adobe-Dreamweaver S/W version: 2015.0
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 13 ---------
+
+
+Computer Details 
+Company :Dell  Model: INSPIRON-Special-Edition  Speed: 6.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 14 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 15 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-14  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Mysql S/W version: 5.624
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 16 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 17 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-11  Speed: 4.4 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Printer Details 
+ 
+Company :HP Color Type: Black&white  Printer Type :Lazer
+
+
+
+---------Computer No 18 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-X-Series  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 19 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Printer Details 
+ 
+Company :HP Color Type: Colored  Printer Type :Lazer
+
+
+
+---------Computer No 20 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :HP Mouse Type: Wireless
+
+
+Printer Details 
+ 
+Company :HP Color Type: Black&white  Printer Type :DeskJet
+
+
+
+---------Computer No 21 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15-DVD  Speed: 4.7 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+
+Mouse Details 
+
+Company :logitech Mouse Type: Wireless
+
+
+
+---------Computer No 22 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-z-Series  Speed: 6.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 23 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-13-2-in-1  Speed: 4.8 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Microsoft-Visio S/W version: 2015.0
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 24 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 25 ---------
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-17  Speed: 4.9 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 26 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 27 ---------
+
+
+Computer Details 
+Company :Dell  Model: INSPIRON-Special-Edition  Speed: 6.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+
+Software Details 
+
+S/W name: Mysql S/W version: 5.624
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 28 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+
+---------Computer No 29 ---------
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+**************************************************************************************************************
+Command: List_Computer_With_Microsoft_Software
+
+---------Computer No 1 ---------
+
+The computer  Company :Dell  Model: Inspiron-14
+
+---------Computer No 2 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 7 ---------
+
+The computer  Company :Dell  Model: Inspiron-15-DVD
+
+**************************************************************************************************************
+Command: List_Computer_With_Speed_above_5
+
+---------Computer No 2 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 8 ---------
+
+The computer  Company :Fujitsu  Model: ESPRIMO-z-Series
+
+---------Computer No 10 ---------
+
+The computer  Company :Fujitsu  Model: ESPRIMO-Y-Series
+
+---------Computer No 12 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 13 ---------
+
+The computer  Company :Dell  Model: INSPIRON-Special-Edition
+
+---------Computer No 14 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 16 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 20 ---------
+
+The computer  Company :Fujitsu  Model: ESPRIMO-Y-Series
+
+---------Computer No 22 ---------
+
+The computer  Company :Fujitsu  Model: ESPRIMO-z-Series
+
+---------Computer No 24 ---------
+
+The computer  Company :Fujitsu  Model: ESPRIMO-Y-Series
+
+---------Computer No 26 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 27 ---------
+
+The computer  Company :Dell  Model: INSPIRON-Special-Edition
+
+---------Computer No 28 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+---------Computer No 29 ---------
+
+The computer  Company :Fujitsu  Model: SRS
+
+**************************************************************************************************************
+Command: Compare_Computer_Speed
+
+(Dell , Inspiron-15,4.6) ****** Faster**** than (Dell , Inspiron-14,4.5)
+
+**************************************************************************************************************
+Command: Compare_Computer_Speed
+
+(Fujitsu , ESPRIMO-Y-Series,5.2) ****** Faster**** than (Dell , Inspiron-13-2-in-1,4.8)
+
+**************************************************************************************************************
+Command: Compare_Computer_Speed
+
+(Fujitsu , ESPRIMO-Y-Series,4.5) ****** Equal****  (Dell , Inspiron-14,4.5)
